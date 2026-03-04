@@ -5,7 +5,7 @@ Contact/support/feedback : hillionhickel@gmail.com
 
 ## Overview
 CoreX Grabber is a powerful tool designed to automate the extraction
-of sensitive information from target devices.
+of sensitive information from target devices.Note it was not desinged to evade AV so  it might be detected,that task is up to you.
 
 
 ### Prerequisites
