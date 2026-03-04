@@ -9,8 +9,8 @@ of sensitive information from target devices.Note it was not desinged to evade A
 
 
 ### Prerequisites
-A Python IDE
-A Discord webhook(eg. https://discord.com/api/webhooks/1444121594686341141/e6AGsYfd1q66wnazh7FIOHpcfJjzWHpE8dH735HHrIBy8LIu6eAH8qQMucZvkUnMCiat)
+A Python 
+A Discord webhook
 
 ### Installation
 
